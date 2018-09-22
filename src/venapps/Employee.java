@@ -25,5 +25,6 @@ public class Employee {
 	public void setEmpName(String empName) {
 		this.empName = empName;
 	}
+	System.out.println("Appa ! shivappa !");
 	
 }
